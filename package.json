@@ -34,7 +34,7 @@
     "lodash-bound": "^1.1.2",
     "lodash-compat": "^3.10.2",
     "lodash-es": "^4.17.4",
-    "mocha": "^3.3.0",
+    "mocha": "^3.4.1",
     "ramda": "^0.23.0",
     "react-bootstrap": "^0.31.0"
   },
